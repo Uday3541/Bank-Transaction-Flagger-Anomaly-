@@ -1,0 +1,4 @@
+# Bank Transaction Anomaly Flagger - Requirements
+# This project uses Python's standard library modules (http.server, socketserver, json, csv, math, os).
+# No external third-party pip packages are required.
+# Python 3.8+ recommended.
